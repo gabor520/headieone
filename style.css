@@ -37,7 +37,6 @@ article{
 footer{
     grid-area: f;
 }
-
 nav ul li{
     display: inline-block;
 }
@@ -60,4 +59,8 @@ nav {
 }
 .egy{
 grid-template-columns: 1fr 1fr;
+}
+.sima{
+    width: 400px;
+    height: 400px;
 }
